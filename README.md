@@ -1,0 +1,3 @@
+- Edit API token and/or chat ID if you have one in source code found.
+- Run script
+- Profit
